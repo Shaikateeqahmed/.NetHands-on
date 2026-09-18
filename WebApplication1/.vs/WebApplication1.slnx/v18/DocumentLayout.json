@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\financetracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\src\\financetracker.application\\expense\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\src\\financetracker.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\src\\financetracker.application\\expense\\dtos\\createexpenserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\src\\financetracker.infrastructure\\repositories\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\src\\financetracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\src\\financetracker.application\\common\\interfaces\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\src\\financetracker.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A567B-294A-4897-93DB-11CF45F48E03}|..\\..\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj|c:\\users\\shaikateeqahmed\\source\\repos\\.nethands-on\\financetracker\\src\\financetracker.domain\\enums\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\appsettings.json",
+              "RelativeToolTip": "..\\FinanceTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-16T13:47:29.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinanceTracker.http",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.http",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\FinanceTracker.http",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.http",
+              "RelativeToolTip": "..\\FinanceTracker\\FinanceTracker.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-16T13:47:26.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\Program.cs",
+              "RelativeToolTip": "..\\FinanceTracker\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:25:17.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Infrastructure\\Repositories\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\src\\FinanceTracker.Infrastructure\\Repositories\\ExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Infrastructure\\Repositories\\ExpenseRepository.cs",
+              "RelativeToolTip": "..\\FinanceTracker\\src\\FinanceTracker.Infrastructure\\Repositories\\ExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:17:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\src\\FinanceTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\FinanceTracker\\src\\FinanceTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:00:54.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Application\\Expense\\Services\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\src\\FinanceTracker.Application\\Expense\\Services\\ExpenseService.cs",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Application\\Expense\\Services\\ExpenseService.cs",
+              "RelativeToolTip": "..\\FinanceTracker\\src\\FinanceTracker.Application\\Expense\\Services\\ExpenseService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:48:51.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateExpenseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Application\\Expense\\DTOs\\CreateExpenseRequest.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\src\\FinanceTracker.Application\\Expense\\DTOs\\CreateExpenseRequest.cs",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Application\\Expense\\DTOs\\CreateExpenseRequest.cs",
+              "RelativeToolTip": "..\\FinanceTracker\\src\\FinanceTracker.Application\\Expense\\DTOs\\CreateExpenseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:44:00.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Application\\Common\\Interfaces\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\src\\FinanceTracker.Application\\Common\\Interfaces\\IExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Application\\Common\\Interfaces\\IExpenseRepository.cs",
+              "RelativeToolTip": "..\\FinanceTracker\\src\\FinanceTracker.Application\\Common\\Interfaces\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:37:53.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Domain\\Entities\\Expense.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\src\\FinanceTracker.Domain\\Entities\\Expense.cs",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Domain\\Entities\\Expense.cs",
+              "RelativeToolTip": "..\\FinanceTracker\\src\\FinanceTracker.Domain\\Entities\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:17:37.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\src\\FinanceTracker.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "..\\FinanceTracker\\src\\FinanceTracker.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:21:56.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExpenseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Domain\\Enums\\ExpenseCategory.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTracker\\src\\FinanceTracker.Domain\\Enums\\ExpenseCategory.cs",
+              "ToolTip": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\src\\FinanceTracker.Domain\\Enums\\ExpenseCategory.cs",
+              "RelativeToolTip": "..\\FinanceTracker\\src\\FinanceTracker.Domain\\Enums\\ExpenseCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:14:15.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
