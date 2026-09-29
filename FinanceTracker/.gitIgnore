@@ -1,0 +1,11 @@
+## Visual Studio cache and user-specific files
+.vs/
+*.user
+*.suo
+
+## Build outputs
+[Bb]in/
+[Oo]bj/
+
+## SQLite local databases (optional, but finance.db is usually local state)
+*.db
