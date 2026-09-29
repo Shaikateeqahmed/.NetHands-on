@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj": {}
+    "C:\\Users\\ShaikAteeqAhmed(Atee\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj": {
+    "C:\\Users\\ShaikAteeqAhmed(Atee\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj",
+        "projectUniqueName": "C:\\Users\\ShaikAteeqAhmed(Atee\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj",
         "projectName": "FinanceTracker",
-        "projectPath": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj",
-        "packagesPath": "C:\\Users\\ShaikAteeqAhmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ShaikAteeqAhmed\\source\\repos\\.NetHands-on\\FinanceTracker\\obj\\",
+        "projectPath": "C:\\Users\\ShaikAteeqAhmed(Atee\\source\\repos\\.NetHands-on\\FinanceTracker\\FinanceTracker.csproj",
+        "packagesPath": "C:\\Users\\ShaikAteeqAhmed(Atee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ShaikAteeqAhmed(Atee\\source\\repos\\.NetHands-on\\FinanceTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ShaikAteeqAhmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ShaikAteeqAhmed(Atee\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -18,13 +18,12 @@ public class ExpenseService
 
     public async Task<ExpenseResponse> CreateExpenseAsync(CreateExpenseRequest request, CancellationToken cancellationToken = default)
     {
-        var expense = new Expenses
-        {
-            Title = request.Title,
-            Amount = request.Amount,
-            Category = request.Category,
-            Date = request.DateIncurredUtc
-        };
+        var expense = new Expenses(
+           request.Title,
+           request.Amount,
+           request.Category,
+           request.DateIncurredUtc
+        );
         await _expenseRepository.AddAsync(expense, cancellationToken);
         await _expenseRepository.SaveChangesAsync(cancellationToken);
         return new ExpenseResponse(
